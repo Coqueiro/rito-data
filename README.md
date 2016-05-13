@@ -1,5 +1,5 @@
 # Rito-Data
-Autores: @Coqueiro e LucasIME
+Autores: @Coqueiro e @LucasIME
 
 [Este projeto está em fase de desenvolvimento]
 
